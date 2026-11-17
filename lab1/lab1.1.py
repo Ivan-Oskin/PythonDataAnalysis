@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 
 #1.1
@@ -22,4 +21,4 @@ print(f"eps 64 = {np.finfo(np.float64).eps}")
 a = np.float32(1.0)
 b = np.float32(1.0 + 1e-8)
 print(f"b = {b:.15f}")
-print(f"a - b = {a - b}") 
+print(f"a - b = {a - b}")
