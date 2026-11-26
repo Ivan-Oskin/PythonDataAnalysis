@@ -1,0 +1,4 @@
+id,name,age,salary,department,hiredate,is_active
+1,Ivan,23,50000.0,HR,2023-01-15,True
+2,Lev,34,100000.0,IT,2023-05-22,True
+3,Andrew,19,20000.0,Finance,2025-11-01,False
